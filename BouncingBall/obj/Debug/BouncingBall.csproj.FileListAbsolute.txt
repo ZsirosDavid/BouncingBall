@@ -1,0 +1,10 @@
+C:\Users\Synergon\Desktop\CEGlass\BouncingBall\bin\Debug\BouncingBall.exe.config
+C:\Users\Synergon\Desktop\CEGlass\BouncingBall\bin\Debug\BouncingBall.exe
+C:\Users\Synergon\Desktop\CEGlass\BouncingBall\bin\Debug\BouncingBall.pdb
+C:\Users\Synergon\Desktop\CEGlass\BouncingBall\obj\Debug\BouncingBall.csproj.AssemblyReference.cache
+C:\Users\Synergon\Desktop\CEGlass\BouncingBall\obj\Debug\BouncingBall.Form1.resources
+C:\Users\Synergon\Desktop\CEGlass\BouncingBall\obj\Debug\BouncingBall.Properties.Resources.resources
+C:\Users\Synergon\Desktop\CEGlass\BouncingBall\obj\Debug\BouncingBall.csproj.GenerateResource.cache
+C:\Users\Synergon\Desktop\CEGlass\BouncingBall\obj\Debug\BouncingBall.csproj.CoreCompileInputs.cache
+C:\Users\Synergon\Desktop\CEGlass\BouncingBall\obj\Debug\BouncingBall.exe
+C:\Users\Synergon\Desktop\CEGlass\BouncingBall\obj\Debug\BouncingBall.pdb
